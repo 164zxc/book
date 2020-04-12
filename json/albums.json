@@ -1,0 +1,29 @@
+{
+    "albumTitle": "My Book",
+    "albumList": [
+       {
+       "title": "The Immortalists",
+       "artist": "Chloe Benjamin",
+       "cont":"If you were told the date of your death, how would it shape your…",
+       "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+       "image": "https://i.ticketweb.com/i/00/08/48/78/69_Edp.jpg?v=4",
+       "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+       },
+       {
+          "title": "Grist Mill Road",
+          "artist": "Christopher J.",
+          "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+          "cont":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+          "image": "https://images.gr-assets.com/books/1498858389l/33898903.jpg",
+          "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+       },
+       {
+          "title": "Street Art Activity Book",
+          "artist": "Mitchell Beazley",
+          "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+          "cont":"Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+          "image": "https://pic.eslite.com/Upload/Product/201711/m/636471124955217500.jpg",
+          "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+       }
+       
+ ]}
